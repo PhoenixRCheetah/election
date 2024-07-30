@@ -1,0 +1,17 @@
+---
+title: "Analysis"
+author: "Roshan Ranganathan"
+format: html
+execute:
+  echo: false
+---
+
+```{r}
+library(tidyverse)
+library(primer.data)
+```
+
+```{r}
+governors
+```
+
